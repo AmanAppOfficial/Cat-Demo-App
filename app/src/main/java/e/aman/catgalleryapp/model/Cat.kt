@@ -10,5 +10,6 @@ data class Cat(
     val url: String? = null,
     val height: Int? = null,
     val width: Int? = null,
-    val age: Int? = null
+    val age: Int? = null,
+    val name: String? = null
 )
